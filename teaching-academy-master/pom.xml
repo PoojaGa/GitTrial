@@ -82,10 +82,11 @@
 		</repository>			
 	</distributionManagement>
 <scm>
-<connection>scm:git@github.com:PoojaGa/GitTrial.git</connection>
-<developerConnection>scm:git@github.com:PoojaGa/GitTrial.git</developerConnection>
-<url>scm:git@github.com:PoojaGa/GitTrial.git</url>
+<connection>scm:git:ssh:git@github.com:PoojaGa/GitTrial.git</connection>
+<developerConnection>scm:git:ssh:git@github.com:PoojaGa/GitTrial.git</developerConnection>
+<url>scm:git:ssh:git@github.com:PoojaGa/GitTrial.git</url>
 </scm>
+
 	<build>
 		<pluginManagement>
 			<plugins>
